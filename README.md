@@ -30,3 +30,7 @@ You can review all required dependencies in `requirements.txt`. Make sure you ha
 * [TensorFlow/Keras](https://www.tensorflow.org/) - Deep Learning Framework
 * [Torch](https://pytorch.org/) - Auxiliary frameworks
 * HTML/CSS/Bootstrap - Frontend
+
+---
+
+**DEVELOPED BY GUBBA NITHISH**
