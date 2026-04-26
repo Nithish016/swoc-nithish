@@ -1,0 +1,15 @@
+opencv-python
+numpy
+pandas
+scikit-image
+scipy
+matplotlib
+Pillow
+tensorflow
+shap
+torch
+torchvision
+seaborn
+scikit-learn
+openpyxl
+flask
